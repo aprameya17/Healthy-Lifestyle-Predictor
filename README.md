@@ -15,6 +15,8 @@ The details of the hackathon can be found here: [Link](https://aiplanet.com/chal
 Used KNN imputer and Mode imputation to fill in missing values, performed Label and One-Hot Encoding depending on the datatype, Recursive Feature Elimination for feature selection, SMOTETomek to rebalance the data and finally employed CatBoostClassifier to build the model.
 
 # Results
-87.8862 - Private Leaderboard 
-87.8884 - Public Learderboard
 Achieved a combined score of 87.8873 on the Final Leaderboard and finished 12th out of 3.9k participants. 
+
+87.8862 - Private Leaderboard 
+
+87.8884 - Public Learderboard
