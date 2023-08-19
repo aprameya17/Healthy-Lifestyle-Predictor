@@ -5,8 +5,8 @@ The details of the hackathon can be found here: [Link](https://aiplanet.com/chal
 
 
 # Dependencies
--numpy
--pandas
--seaborn
--matplotlib
--sklearn
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* sklearn
